@@ -3,7 +3,7 @@ Thanks for visiting my portfolio
 
 
 - 🔭 I’m currently working on personal and school projects
-- 🌱 I’m currently learning JavaScript, Node.js, React & MySQL
+- 🌱 I’m currently learning JavaScript, Node.js, React & MongoDB
 - 💬 Ask me about everything!
 - 📫 How to reach me: aaronojala@yahoo.com
 - ⚡ Fun fact: I've worked at an airport for almost 10 years 😄
